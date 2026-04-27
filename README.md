@@ -1,6 +1,6 @@
-# 3-Card-Poker-JavaFX
+# 3 Card Poker JavaFX
 
-A JavaFX + Maven implementation of the casino game **Three Card Poker** with support for **single-player** mode. The project uses **FXML** for layout, **CSS** for styling, and event-driven logic for gameplay flow. 
+A JavaFX + Maven implementation of the casino game **Three Card Poker** with support for **single-player** and **two-player** modes. The project uses **FXML** for layout, **CSS** for styling, and event-driven logic for gameplay flow. 
 
 ## Overview
 
@@ -75,11 +75,12 @@ The project is expected to run from the command line using Maven. That is part o
 
 1. Launch the program.
 2. On the welcome screen, choose **Start Game**.
-3. On the game screen, press **Deal**.
-4. Enter the Ante wager and optional Pair Plus wager.
-5. Press **Place Bets**.
-6. Choose **Play** or **Fold**.
-7. Read the game result shown in the info area and continue to the next round.
+3. Select **1 Player** or **2 Players**.
+4. On the game screen, press **Deal**.
+5. Enter the Ante wager and optional Pair Plus wager.
+6. Press **Place Bets**.
+7. Choose **Play** or **Fold**.
+8. Read the game result shown in the info area and continue to the next round.
 
 ## Menu Options
 
