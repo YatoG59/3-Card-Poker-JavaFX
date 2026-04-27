@@ -110,3 +110,12 @@ The GUI must be implemented with **FXML** and **CSS**, but runtime updates to im
 **Denys Zabiyaka**  
 NetID: **dzabi2**  
 Email: **dzabi2@uic.edu**
+
+
+##Preview
+<img width="842" height="873" alt="Screenshot 2026-04-27 at 1 14 17 AM" src="https://github.com/user-attachments/assets/26fad54f-f5bf-4dd2-96f8-16ec9e216723" />
+<img width="841" height="867" alt="Screenshot 2026-04-27 at 1 14 32 AM" src="https://github.com/user-attachments/assets/55ed2b76-7fc4-446d-9b9a-b3613a3344cc" />
+<img width="842" height="866" alt="Screenshot 2026-04-27 at 1 14 55 AM" src="https://github.com/user-attachments/assets/b099e34e-df51-4f3f-8bb6-06dcad6ccd95" />
+
+
+
